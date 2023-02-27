@@ -1,8 +1,8 @@
 # social_data_analysis
-소셜데이터로 본 방한 외국인의 방문지 분석
+### 소셜데이터로 본 방한 외국인의 방문지 분석
 
 - 인스타그램 크롤링을 통한 데이터 수집
 - API를 사용하여 데이터 정제 및 분석
 - 데이터 시각화
 
-### 웹진 발간(https://webzine.kcisa.kr/vol015/insight.php)
+웹진 발간(https://webzine.kcisa.kr/vol015/insight.php)
