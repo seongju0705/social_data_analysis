@@ -5,4 +5,4 @@
 - API를 사용하여 데이터 정제 및 분석
 - 데이터 시각화
 
-[웹진 발간] (https://webzine.kcisa.kr/vol015/insight.php)
+### 웹진 발간(https://webzine.kcisa.kr/vol015/insight.php)
