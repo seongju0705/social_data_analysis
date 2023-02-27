@@ -6,4 +6,4 @@
 - 데이터 시각화
 
 ### 분석 결과물
-- [웹진 링크](https://webzine.kcisa.kr/vol015/insight)
+- [웹진 이데아 1월](https://webzine.kcisa.kr/vol015/insight)
